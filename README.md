@@ -5,6 +5,7 @@ kaggle codes
 |seq|       project name         |kaggle score|
 |---:|:----------------------------|:------------:|
 |  1| HousePricePredict          |0.12257|
+|  2| PredictFutureSales         ||
 
 
 
